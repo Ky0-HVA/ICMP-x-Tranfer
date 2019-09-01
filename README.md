@@ -1,5 +1,5 @@
 # ICMP-x-Transfer
-ICMP-x-Tranfer is simple script send file base on https://github.com/Vidimensional/Icmp-File-Transfer. 
+ICMP-x-Transfer is simple script send file base on https://github.com/Vidimensional/Icmp-File-Transfer. 
 You can use Icmp-File-Transfer to receive file which sent by ICMP-x-Tranfer
 
 # USE: 
