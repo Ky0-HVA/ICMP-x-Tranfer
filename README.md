@@ -3,7 +3,8 @@ ICMP-x-Tranfer is simple script send file base on https://github.com/Vidimension
 You can use Icmp-File-Transfer to receive file which sent by ICMP-x-Tranfer
 
 # USE: 
+```c
 ICMP-x-Tranfer.py <file name> <destination host>
-
+```
 # REF: 
 https://github.com/samuel/python-ping
